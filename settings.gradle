@@ -1,0 +1,4 @@
+rootProject.name = 'dz26.03.23.2'
+include 'db'
+include 'api'
+include 'service'
